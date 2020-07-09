@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FFC6Bank</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_form_cadastro">Novo Cadastro</string>
+
+    <!--Buttons -->
+    <string name="entrar">Entrar</string>
+    <string name="cadastrar">Cadastro</string>
+    <string name="avancar">Avançar</string>
+
+    <!-- Text -->
+    <string name="nome_completo">Digite seu nome completo</string>
+    <string name="digite_email">Digite seu e-mail</string>
+    <string name="digite_cpf">Digite seu CPF</string>
+    <string name="senha">Senha</string>
+    <string name="confirmar_senha">Confirmar Senha</string>
+
+    <!--Mensagens -->
+    <string name="preenchimento_obrigatorio">Preenchimento Obrigatório!</string>
+    <string name="email_invalido">E-mail inválido</string>
+    <string name="cpf_invalido" translatable="false">CPF inválido!</string>
+    <string name="borda_verde">Posicione seu rosto na câmera ate a borda ficar verde</string>
+    <string name="senha_difirente">As senhas digitadas são diferentes!</string>
+</resources>
